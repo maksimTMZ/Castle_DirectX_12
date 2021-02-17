@@ -1,0 +1,14 @@
+﻿  Camera.cpp
+  d3dApp.cpp
+  d3dUtil.cpp
+d:\school\semester5\directx\101148254_100875702_101157071_assignment3\castle_directx\common\d3dutil.cpp(30): warning C4244: 'argument': conversion from 'std::streamoff' to 'SIZE_T', possible loss of data
+d:\school\semester5\directx\101148254_100875702_101157071_assignment3\castle_directx\common\d3dutil.cpp(70): warning C4244: '=': conversion from 'UINT64' to 'LONG_PTR', possible loss of data
+  DDSTextureLoader.cpp
+  GameTimer.cpp
+  GeometryGenerator.cpp
+  MathHelper.cpp
+  FrameResource.cpp
+  TreeBillboardsApp.cpp
+  Waves.cpp
+  Generating Code...
+  Trees.vcxproj -> D:\School\Semester5\DirectX\101148254_100875702_101157071_Assignment3\Castle_DirectX\Trees\Debug\Trees.exe

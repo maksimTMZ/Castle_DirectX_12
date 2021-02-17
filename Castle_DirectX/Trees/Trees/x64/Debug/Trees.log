@@ -1,0 +1,12 @@
+﻿  Camera.cpp
+  d3dApp.cpp
+  d3dUtil.cpp
+  DDSTextureLoader.cpp
+  GameTimer.cpp
+  GeometryGenerator.cpp
+  MathHelper.cpp
+  FrameResource.cpp
+  TreeBillboardsApp.cpp
+  Waves.cpp
+  Generating Code...
+  Trees.vcxproj -> D:\School\GutHub\Castle_DirectX12\Castle_DirectX_12\Castle_DirectX\Trees\x64\Debug\Trees.exe
